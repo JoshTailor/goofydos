@@ -9,7 +9,7 @@ Python WiFi DoS (Denial of Service) tamadas.
 2. Masold le a projektet. `https://github.com/JoshTailor/goofydos`
 
   ```bash
-  git clone 
+  git clone https://github.com/JoshTailor/goofydos
   cd goofydos-main
   sudo python3 goofy.wifi.py
   ```
