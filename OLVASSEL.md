@@ -9,6 +9,7 @@ Python WiFi DoS (Denial of Service) tamadas.
 2. Masold le a projektet. `https://github.com/Mr-Hax0r/wifi-jammer-python`
 
   ```bash
+  git clone 
   cd goofydos-main
   sudo python3 goofy.wifi.py
   ```
