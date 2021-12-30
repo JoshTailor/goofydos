@@ -15,4 +15,4 @@ Python WiFi DoS (Denial of Service) tamadas.
   ```
 
 
-![alt text](https://s4.uupload.ir/files/screenshot_20210907_030356_xcss.png)
+![alt text](https://imgur.com/a/wbgoy9N)
